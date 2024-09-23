@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769805574561",
+    "project_id": "talkup-74a06",
+    "storage_bucket": "talkup-74a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769805574561:android:825a5289d86288dbdb2be0",
+        "android_client_info": {
+          "package_name": "com.example.talk_up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMFB2xlfNDCVLK8KsGUMHn5Rv3pXSs9RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
